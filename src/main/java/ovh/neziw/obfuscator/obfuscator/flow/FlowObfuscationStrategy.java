@@ -40,3 +40,4 @@ public interface FlowObfuscationStrategy {
     int obfuscate(final MethodNode method);
 }
 
+

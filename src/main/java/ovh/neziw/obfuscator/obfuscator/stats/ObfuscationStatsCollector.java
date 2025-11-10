@@ -67,3 +67,4 @@ public class ObfuscationStatsCollector {
             this.methodOrderStats.getMethodsReordered(), this.flowStats.getMethodsObfuscated());
     }
 }
+
